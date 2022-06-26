@@ -29,6 +29,7 @@ When it came to roadblocks I encountered throughout the development of both proj
 #How has working on this project expanded my approach to designing software?
 
 Personally, I feel that this project has made my approach to designing software much more efficient, as well as more refined. Prior to this class, I never really liked working on pseudocode. I found it to be somewhat tedious since it wasn't actual code. It felt easier to just dive straight into the coding process instead of preparing for it. Though, after the work in this class, I feel that using pseudocode is an important part in the process of developing code that is correct and works well. Even if it might take a bit more time to write pseudocode and write actual code, it makes the process of ensuring the users needs are met much easier. Another aspect of this class that has refined my approach to designing software was the analysis of different data structures. Doing the runtime anaylsis and storage analysis of each data structure in project 1 has made me realize how important it is to use the correct data structure for the situation.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #How has this project altered the way I write programs that are readable, maintainable, and adaptable?
